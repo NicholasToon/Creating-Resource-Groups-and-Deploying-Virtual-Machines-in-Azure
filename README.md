@@ -74,3 +74,15 @@ In this tutorial, we will start off with a simple creation of a resource group. 
 
 - ![Image](https://i.imgur.com/9TNLD2w.png)
 - Edit the File within the Storage Account. Type in document, "Save", "Download".
+
+![image](https://i.imgur.com/0yuhqzw.png)
+- Observe changes made to document.
+
+
+![Image](https://i.imgur.com/e4YRwwz.png)
+- Navigate to "Resource groups", select "RG-01" (Or your chosen RG name), "Delete resource group", "Delete", "Delete" (deletion is performed to prevent incurring any costs, whether through free credits or a pay-as-you-go subscription).
+
+---
+Virtual Machines and Remote Desktop Connections are quite useful for many of jobs that involve IT. Originally, I was indifferent to the technologies, but now after bulding and practicing, I have a greater apprectiation for those that utilize these technologies to their highest degree. 
+
+Azure's storage accounts are fascinating feture in the Azure suite. Even though they might not seem like a big deal, especially since we've been using them in a way similar to Google Docs, they actually offer a bunch of useful features. For example, you can create a website, store it in the storage account, and share it on the internet. Plus, you can connect things up using languages like Python, C++, Java, and more.
