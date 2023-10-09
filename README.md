@@ -9,7 +9,7 @@ In this tutorial, we will start off with the simple creation of a resource group
 
 - ## Operating System Used
 
-- Windows 10 (21H2)
+- Windows 10 Pro (21H2)
 
 ## Creating A Resource Group
 
@@ -42,7 +42,7 @@ In this tutorial, we will start off with the simple creation of a resource group
 
 ![Image](https://i.imgur.com/PiRPi8s.png)
 
-- Name the Virtual Machine, change the security type to "Standard," select the "Windows 10 Enterprise" image, leave the zone as pre-selected, set the size to "4 vCPUs" for a stable image, create a username and password, and check the "Licensing" box -> "Review + Create" -> "Create."
+- Name the Virtual Machine, change the security type to "Standard," select the **Windows 10 Pro, version 22H2 - x64 Gen2** image, leave the zone as pre-selected, set the size to "4 vCPUs" for a stable image, create a username and password, and check the "Licensing" box -> "Review + Create" -> "Create."
 
 ![Image](https://i.imgur.com/ytULvuV.png)
 
