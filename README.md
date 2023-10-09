@@ -31,7 +31,7 @@ In this tutorial, we will start off with the simple creation of a resource group
 
 ---
 
-![Image](https://i.imgur.com/8AA7SSs.png)
+![Image](https://i.imgur.com/9O9OkBJ.png)
 ## Creating a Virtual Machine
 
 - Click on the "Virtual Machines" icon in the Azure suite or search for it and then click on it.
