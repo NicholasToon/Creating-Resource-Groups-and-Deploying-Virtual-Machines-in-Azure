@@ -48,5 +48,29 @@ In this tutorial, we will start off with a simple creation of a resource group. 
 
 - Wait for creation of assets, "Go to Resource", copy "Public IP address", open "Remote Desktop Connection" from start, input copied IP address into computer line, "Connect", "More Choices", "Use a different account", enter credentials used upon creation of the virtual machine, "Ok", "Yes"
 
-  - After clicking 'OK,' you will be directed to the image you selected and can now proceed to manipulate it as desired.
+- After clicking 'OK,' you will be directed to the image you selected and can now proceed to manipulate it as desired.
   ---
+![Image](https://i.imgur.com/NNXm3Zo.png)
+## Extra: Creating a Storage Account 
+  
+![Image](https://i.imgur.com/19GwokX.png)
+
+- Click or search "Storage accounts". Create Storage account.
+
+![Image](https://i.imgur.com/tFQaQ2U.png)
+
+- Make sure that RG-01 (or the name of your corresponding resource group) is selected. Input a uniqe name for your "Storage account" to be created. "Review".
+
+![Image](https://i.imgur.com/PEEmhiP.png)
+
+- "Create".
+
+![Image](https://i.imgur.com/pkiW79I.png)
+
+- Wait for Storage account to be completed (It will be quick,) "Go to resource", click "Containers" -> Container -> Name -> Input name (e.g. cclab01). "Create"
+
+![Image](https://i.imgur.com/6P5vQGG.png)
+- Create a file through notepad on your desktop and upload it to the Storage account. Click "cclab01" -> "Open" -> Upload cclab01 -> "Upload".
+
+- ![Image](https://i.imgur.com/9TNLD2w.png)
+- Edit the File within the Storage Account. Type in document, "Save", "Download".
