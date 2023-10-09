@@ -72,7 +72,7 @@ In this tutorial, we will start off with a simple creation of a resource group. 
 ![Image](https://i.imgur.com/6P5vQGG.png)
 - Create a file through notepad on your desktop and upload it to the Storage account. Click "cclab01" -> "Open" -> Upload cclab01 -> "Upload".
 
-- ![Image](https://i.imgur.com/9TNLD2w.png)
+![Image](https://i.imgur.com/9TNLD2w.png)
 - Edit the File within the Storage Account. Type in document, "Save", "Download".
 
 ![image](https://i.imgur.com/0yuhqzw.png)
