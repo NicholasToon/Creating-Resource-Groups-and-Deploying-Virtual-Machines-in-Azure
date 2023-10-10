@@ -5,7 +5,7 @@ In this tutorial, we will start off with the simple creation of a resource group
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection (RDC)
 
 - ## Operating System Used
 
