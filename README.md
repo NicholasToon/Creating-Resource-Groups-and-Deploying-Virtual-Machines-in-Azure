@@ -84,7 +84,7 @@ In this tutorial, we will start off with the simple creation of a resource group
 
 ---
 
-## After thoughts
+## After Thoughts
 
 Virtual Machines and Remote Desktop Connections are quite useful for many of jobs that involve IT. Originally, I was indifferent to the technologies, but now, after bulding and practicing, I have a greater apprectiation for those who utilize these technologies to their fullest. 
 
