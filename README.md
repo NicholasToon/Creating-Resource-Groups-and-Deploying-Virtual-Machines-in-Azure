@@ -9,7 +9,7 @@ In this tutorial, we will start off with the simple creation of a resource group
 
 - ## Operating System Used
 
-- Windows 10 Pro (21H2)
+- Windows 10 Pro (22H2)
 
 ## Creating A Resource Group
 
