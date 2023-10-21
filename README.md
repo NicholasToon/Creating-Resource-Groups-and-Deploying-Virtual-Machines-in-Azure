@@ -2,7 +2,7 @@
 # Azure - Resoure Groups and Virtual Machines
 In this tutorial, we will start off with the simple creation of a resource group. After we complete that, we will create a Virtual machine which will be the jump point for many of our future projects.
 
-*Always delete your resource groups and other environments so that you do not incur any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
+*Always delete your resource groups and other environments in Azure to avoid incurring any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
 
 ## Environments and Technologies Used
 
